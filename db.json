@@ -1,15 +1,15 @@
 {
     "a": {
         "id": "a",
-        "question": "lorem ipsum",
+        "question": "O que significa a sigla CSS?",
         "options": {
-            "a": "lorem",
+            "a": "Computer Style Sheet",
 
-            "b": "lorem",
+            "b": "Cascading Style Sheet",
 
-            "c": "lorem",
+            "c": "Colorful Style Sheet",
 
-            "d": "lorem"
+            "d": "Creative Style Sheet"
         },
         "correta": "b",
         "proxima": "b"
@@ -17,31 +17,31 @@
     
     "b": {
         "id": "b",
-        "question": "lorem ipsum",
+        "question": "Qual maneira pode ser utilizado o CSS?",
         "options": {
-            "a": "lorem",
+            "a": "Interno",
     
-            "b": "lorem",
+            "b": "Externo",
     
-            "c": "lorem",
+            "c": "Inline",
     
-            "d": "lorem"
+            "d": "Todas as opções acima"
         },
-        "correta": "c",
+        "correta": "d",
         "proxima": "c"
     },
 
     "c": {
         "id": "c",
-        "question": "lorem ipsum",
+        "question": "Qual é a sintaxe CSS correta?",
         "options": {
-            "a": "lorem",
+            "a": "body {color: black;}",
     
-            "b": "lorem",
+            "b": "body: color = black;",
     
-            "c": "lorem",
+            "c": "{body color: black;}",
     
-            "d": "lorem"
+            "d": "{body: color = black;}"
         },
         "correta": "a",
         "proxima": "d"
@@ -49,15 +49,15 @@
 
     "d": {
         "id": "d",
-        "question": "lorem ipsum",
+        "question": "Qual a pseudo classe usada para aplicar estilização quando o mouse passar por cima do elemento",
         "options": {
-            "a": "lorem",
+            "a": ":first-child",
     
-            "b": "lorem",
+            "b": ":active",
     
-            "c": "lorem",
+            "c": ":focus",
     
-            "d": "lorem"
+            "d": ":hover"
         },
         "correta": "d",
         "proxima": "e"
@@ -65,17 +65,17 @@
 
     "e": {
         "id": "e",
-        "question": "lorem ipsum",
+        "question": "Qual propriedade CSS controla o tamanho do texto?",
         "options": {
-            "a": "lorem",
+            "a": "font-style",
     
-            "b": "lorem",
+            "b": "text-size",
     
-            "c": "lorem",
+            "c": "text-style",
     
-            "d": "lorem"
+            "d": "font-size"
         },
-        "correta": "c",
+        "correta": "d",
         "proxima": "fim"
     }
 }
