@@ -3,7 +3,7 @@
 
 Com Operações GET / POST
 
-Site de rastreamento de encomendas. Utiliza como base CSS, HTML, JAVASCRIPT.  Permite ao usuário: confirmar a entrega da encomenda e editar ou cancelar o rastreamento.
+Site de perguntas e respostas com tema Usabilidade CSS, para o desenvolvimento do site foram usadas as tecnologias HTML, CSS, JAVASCRIPT e BOOTSTRAP
 
 ## Para usar esse projeto:
 1. Clonar este repositório
