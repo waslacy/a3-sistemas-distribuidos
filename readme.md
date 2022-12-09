@@ -22,4 +22,4 @@ http://github.com
 
 ## Estrutura de pastas do projeto
 
-pasta `database` contém o arquivo json que é o banco de dados e o arquivo sgdb.js que controla a persistência dos dados no arquivo json.
+pasta `frontend` contém todos os arquivos do frontend do site, `arquivo db.json` sendo banco de dados das perguntas e arquivo `app.js` sendo a api.
